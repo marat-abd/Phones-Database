@@ -1,0 +1,35 @@
+nav a {
+	display: block;
+	padding: 25px 10px;
+	text-decoration: none;
+	color: #3f3f3f;
+}
+
+.add_number, .view_number {
+	width: 50%;
+	margin: 200px auto;
+}
+
+.main-menu {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.main-menu li {
+	display: inline-block;
+	margin-right: 5px;
+}
+
+.main-menu a {
+  color: #3f3f3f;
+  display: block;
+  padding: 25px 10px;
+  text-decoration: none;
+}
+
+.main-menu a:hover {
+	color: #83d7ac;
+	border-bottom: 2px solid #83d7ac;
+}
+
